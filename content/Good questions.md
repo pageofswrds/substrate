@@ -3,6 +3,8 @@ What makes you, you? What makes you tick? What kinds of things do you notice? Wh
 ### s-tier
 - what's your roman empire?
 - what's your favorite book?
+- what does it feel like to fall in love?
+- are you yin-dominant, yang-dominant, or somewhere in-between?
 - what question do you want to be asked?
 
 ### perception-check
@@ -24,9 +26,11 @@ What makes you, you? What makes you tick? What kinds of things do you notice? Wh
 - do you enjoy your birthdays? what do you like to do on them?
 - If you could compartmentalize your brain, what would fill those compartments up? what's consistent, what's transient? 
 - if I had a box with everything you've ever lost inside it, what would you look for?
-- would you say you're more feminine or masculine? what parts of your masculinity/feminity do you like?
 - do you feel comfortable in your own body?
 - what makes you feel comfortable in your own body?
+- what was the first time you knew you were in love?
+- when was the first time you felt grief?
+- how do you know when you're being real?
 
 ### in relationships
 - if your parents were your age, would you be friends with them?
