@@ -5,6 +5,7 @@ What makes you, you? What makes you tick? What kinds of things do you notice? Wh
 - what's your favorite book?
 - what does it feel like to fall in love?
 - are you yin-dominant, yang-dominant, or somewhere in-between?
+- what do people misunderstand about you? what do you wish they understood?
 - what question do you want to be asked?
 
 ### perception-check
