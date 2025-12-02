@@ -1,4 +1,4 @@
-> Empire is synonymous with monoculture, because that is how it reproduces. It layers on top of what is already there, and smothers what makes you different—like a pillow across your face—forcing you to gasp for the few molecules of oxygen it lets you have.
+> Empire is an archetype that breeds by establishing monoculture. It layers on top of what is already there, and smothers what makes you different—like a pillow across your face—forcing you to gasp for the few molecules of oxygen it lets you have.
 
 ## Introduction
 Over the past sixth months, I have been developing a thesis that explains the origins of the problems we face in the world. 
