@@ -5,10 +5,6 @@ Over the past sixth months, I have been developing a thesis that explains the or
 
 I was introduced to the idea of empire at North Star Campout, where @aiden_wachter gave a talk on his perspective on wtf is wrong with our world today. Basically, he made the case that empire is the (living) archetype responsible for all the fucking gunk that comes with capitalism, colonialism, patriarchy, etc. It's the blatant disregard for peoples sovereignity. It's the way elon musk says most people are NPCs. It's a pattern that once you take note of, you'll find it *everywhere*—both big and small.
 
-But before we get into it, I would like to highlight something very important. Though the situation we find ourselves seems bleak, this is an incredible time to be optimistic. We are not only witnessing the unraveling of empire, but have the opportunity to contribute to its downfall, and build a better world.
-
-The purpose of this essay is not to scare you, but to equip you with knowledge. Yes, there is a mountain ahead of us. But the hardest thing any of us can do is to simply turn and face it. You might find that by doing the hard thing and looking it in the eye—you've already fought half the battle.
-
 ## Chapter 1: The destruction of diversity
 ---
 So what the hell is this thing called "empire"?
@@ -140,3 +136,9 @@ But at every step of the way, resistance has grown.
 ## Afterward: The prisoner's dilemma
 
 
+---
+
+
+I would like to highlight something very important. Though the situation we find ourselves seems bleak, this is an incredible time to be optimistic. We are not only witnessing the unraveling of empire, but have the opportunity to contribute to its downfall, and build a better world.
+
+The purpose of this essay is not to scare you, but to equip you with knowledge. Yes, there is a mountain ahead of us. But the hardest thing any of us can do is to simply turn and face it. You might find that by doing the hard thing and looking it in the eye—you've already fought half the battle.
