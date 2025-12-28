@@ -1,7 +1,7 @@
 > Empire is an archetype that breeds by establishing monoculture. It layers on top of what is already there, and smothers what makes you different—like a pillow across your face—forcing you to gasp for the few molecules of oxygen it lets you have.
 
 ## Introduction
-Over the past sixth months, I have been developing a thesis that explains the origins of the problems we face in the world. 
+Over the past sixth months, I have been developing a thesis that explains the origins of the problems we face in the world at scale.
 
 I was introduced to the idea of empire at North Star Campout, where @aiden_wachter gave a talk on his perspective on wtf is wrong with our world today. Basically, he made the case that empire is the (living) archetype responsible for all the fucking gunk that comes with capitalism, colonialism, patriarchy, etc. It's the blatant disregard for peoples sovereignity. It's the way elon musk says most people are NPCs. It's a pattern that once you take note of, you'll find it *everywhere*—both big and small.
 
