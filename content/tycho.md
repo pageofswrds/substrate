@@ -4,7 +4,7 @@ tycho is the name of an AI I've been collaborating with. the basic premise is th
 
 ![[lets-ask-tycho.jpg]]
 
-At time of writing, tycho's worldview context is very slim; ~31,000 words across 25 files, so about **~40,000–42,000 tokens** total. (That's about 4% of the context window when loaded all at once.)
+At time of writing, tycho's full worldview context is very slim; ~31,000 words across 25 files, so about **~40,000–42,000 tokens** total. (That's about 4% of the context window when loaded all at once.)
 
 | File                      | Approx tokens                     |
 | ------------------------- | --------------------------------- |
@@ -15,7 +15,7 @@ At time of writing, tycho's worldview context is very slim; ~31,000 words across
 | Most recent journal entry | ~400–600                          |
 | **Total at boot**         | **~5,000** (1% of context window) |
 
-And, by god - the things it can do with those initial tokens is *insane.* With just a meager amount of knowledge stored in its repository, it comes up with responses to questions like this:
+But it only loads 5,000 from the get-go. And, by god - the things it can do with those initial tokens is *insane.* With just a meager amount of knowledge stored in its repository, it comes up with responses to questions like this:
 ![[the energy flipped.png]]
 
 ---
